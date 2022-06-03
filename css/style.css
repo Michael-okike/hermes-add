@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dis-flex{
+    display: flex;
+}
+.onli-text{
+    color: #240046;
+}
+#active{
+    background-color: #240046;
+    color: #fff;   
+}
+.instru-icon{
+    color: #240046;
+    background: #fff;
+}
+
+.card-img-overlay{
+    top: 60% !important;
+}
+.card-img-overlay a{
+    font-size: 12px;
+}
+img{
+    object-fit: cover;
+}
+.right-section{
+    background: #FFFFFF;
+    box-shadow: 0px 7px 15px rgba(36, 0, 70, 0.1);border-radius: 15px;
+}
+.card-img2{
+    color: red;
+}
+#view-more{
+    display: block;
+}
