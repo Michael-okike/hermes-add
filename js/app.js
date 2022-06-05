@@ -5,11 +5,11 @@ function toggleSection(){
    
     if (displaySetting == 'block') {
         hide.style.display = 'none';
-        sectionButton.innerHTML = 'Scroll up'
+        sectionButton.innerHTML = 'View More'
     }
     else{
         hide.style.display = 'block';
-        sectionButton.innerHTML = "View More"
+        sectionButton.innerHTML = "Scroll up"
     }
 }
 
